@@ -66,10 +66,10 @@ I enjoy solving real-world problems through code and I’m constantly learning n
 
 Feel free to reach out for collaborations, freelance work, or just to say hi! Here’s how you can contact me:
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/alamindevbd)
-- Portfolio: [Your Website](https://alamindev.netlify.app)
-- Email: [your.email@example.com](mailto:mdalamin6554@gmail.com)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/alamindevbd)
+- Portfolio: [Website](https://alamindev.netlify.app)
+- Email: [Mail](mailto:mdalamin6554@gmail.com)
 
 ---
 
-⭐️ From [Your Name](https://github.com/alamindev)
+⭐️ From [Al-amin](https://github.com/alamindev)
