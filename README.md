@@ -46,18 +46,12 @@ I enjoy solving real-world problems through code and I’m constantly learning n
 ## 📊 GitHub Stats
 
 ### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamindev&show_icons=true&theme=radical)
 
 ### Top Repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Top Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name&theme=radical)](https://github.com/your-username/repo-name)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=another-repo-name&theme=radical)](https://github.com/your-username/another-repo-name)
-
-### Contributions
-![GitHub Contributions](https://img.shields.io/github/contributions/your-username?label=Contributions&logo=github&style=for-the-badge&color=green)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamindev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
 ---
 
 ## 🌱 What I’m currently learning
